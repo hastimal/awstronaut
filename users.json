@@ -85,11 +85,12 @@
   {
     "name": "Hastimal Jangid",
     "certs": [
-      "awstronaut"
+      ["awstronaut"],
     ],
     "city": "Houston",
     "country": "USA",
     "date": "2025-09-09",
+	  "bio": "Founder @RakRabbit.ai | Multi-Cloud | Tech Speaker | Community Reach",
     "linkedin": "hastimaljangid",
     "avatar": "/avatars/HastimalJangid.jpg"
   },
